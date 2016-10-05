@@ -20,8 +20,8 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**: Aplikacia bude znazornavat poziarne vystrahy na zalesnene plochy pre zvolenu oblast. Stupen vystrahy bude zalezat od riek alebo jazier, ktore su sucastou lesa. Uroven bude tiez ovplyvnena poziarnymi stanicami v okoli. Cim viac objektov sa bude v okoli nachadzat, tym bude stupen ohrozenia mensi.
 
-**Data source**: `<fill in>`
+**Data source**: http://download.geofabrik.de/
 
-**Technologies used**: `<fill in>`
+**Technologies used**: PostgreSQL, PostGIS, Javascript

@@ -24,4 +24,4 @@ Fill in (either in English, or in Slovak):
 
 **Data source**: http://download.geofabrik.de/
 
-**Technologies used**: PostgreSQL, PostGIS, Javascript
+**Technologies used**: PostgreSQL, PostGIS
